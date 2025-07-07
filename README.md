@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**yashmax9/yashmax9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  I'm Yash!
 
-Here are some ideas to get you started:
+🎓 I'm a tech enthusiast passionate about Machine Learning, Computer Vision & Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently building:  
+🔹 A Virtual Mouse using MediaPipe & OpenCV  
+🔹 Real-time gesture detection projects  
+
+📌 Skills: `Python` `OpenCV` `MediaPipe` `Machine Learning` `GitHub`  
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/yash-sharma-22130b29a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/yashmax9)
